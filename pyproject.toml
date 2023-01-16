@@ -13,7 +13,7 @@ typer = "^0.7.0"
 PyYAML = "^6.0"
 
 [tool.poetry.scripts]
-merger = "kubecontext_merger:app"
+merger = "kubecontext_merger.main:app"
 
 
 
